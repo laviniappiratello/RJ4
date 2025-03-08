@@ -2,7 +2,7 @@
     "name": "RJ4",
     "version": "1.0.0",
     "description": "modulos com js",
-    "type": "module", // permite uso do export e import
+    "type": "module", 
     "main": "RJ4.js",
     "scripts": {
         "start": "node RJ4.js"
